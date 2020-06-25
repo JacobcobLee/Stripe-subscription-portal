@@ -76,9 +76,3 @@ cd server/node # there's a README in this folder with instructions
 npm install
 npm start
 ```
-
-
-## Author(s)
-
-[Jacob Lee, 
-@JacobcobLee]
