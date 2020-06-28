@@ -9,6 +9,7 @@ This sample shows how to create a customer, set up a card for recurring use, and
 ////////////////////////////////////////////////////////////////////////////////
 - make sure you have your own env file
 - make sure to have npm install in main folder and server/node!
+- ahve your own MongoDB setup and input in server.js your connection URL
 
 ### Features:
 
