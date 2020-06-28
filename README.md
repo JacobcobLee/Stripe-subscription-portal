@@ -21,8 +21,6 @@ This sample shows how to create a customer, set up a card for recurring use, and
 
 ## How to run locally
 
-This sample includes [5 server implementations](server/) in our most popular languages. Follow the steps below to run one of the servers locally.
-
 **1. Clone and configure the sample**
 
 The Stripe CLI is the fastest way to clone and configure a sample to run locally.
