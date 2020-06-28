@@ -8,7 +8,7 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {apiVersion:''})
 
 //MongoDB connection
 const MongoClient = require('mongodb').MongoClient;
-const url = "mongodb+srv://admin:admin@cluster0-xiy9r.mongodb.net/mydb?retryWrites=true&w=majority";
+const url = "//enter your own mongoDB secret KEY!";
 const client = new MongoClient(url, { useNewUrlParser: true });
 client.connect(err => {
   const collection = client.db("test").collection("devices");
